@@ -1,3 +1,9 @@
+labgrid (0.2.1) UNRELEASED; urgency=low
+
+  * added LED protocol/driver
+
+ -- Enrico Weigelt, metux IT consult <info@metux.net>  Sat, 19 Jan 2019 12:56:16 +0100
+
 labgrid (0.2.0) UNRELEASED; urgency=low
 
   * Initial release. (Closes: #XXXXXX)
