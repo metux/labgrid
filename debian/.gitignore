@@ -1,0 +1,7 @@
+/files
+*.debhelper.log
+*.postinst.debhelper
+*.substvars
+/labgrid
+/.debhelper
+debhelper-build-stamp
